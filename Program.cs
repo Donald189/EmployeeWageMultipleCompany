@@ -14,11 +14,11 @@ namespace EmployeeWage
             //EmployeeWage empWage = new EmployeeWage();
             //empWage.CalEmployee();
 
-            EmpSwitchCase empSwitchCase = new EmpSwitchCase();
-            empSwitchCase.CalEmployeeSwitch();
+            //EmpSwitchCase empSwitchCase = new EmpSwitchCase();
+            //empSwitchCase.CalEmployeeSwitch();
 
-            //EmpWagePerMonth empWagePerMonth = new EmpWagePerMonth();
-            //empWagePerMonth.CalEmployeeWagePerMonth();
+            EmpWagePerMonth empWagePerMonth = new EmpWagePerMonth();
+            empWagePerMonth.CalEmployeeWagePerMonth();
 
             //EmpMonthlyWageCalc empMonthlyWageCalc = new EmpMonthlyWageCalc();
             //empMonthlyWageCalc.EmpWageCalcWithHoursOrDays();
