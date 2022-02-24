@@ -8,11 +8,11 @@ namespace EmployeeWage
         {
             Console.WriteLine("Welcome to Employee Wage Computation Using OOPS");
 
-            EmployeeAttendance empAttendance = new EmployeeAttendance();
-            empAttendance.PresentorAbsent();
+            //EmployeeAttendance empAttendance = new EmployeeAttendance();
+            //empAttendance.PresentorAbsent();
 
-            //EmployeeWage empWage = new EmployeeWage();
-            //empWage.CalEmployee();
+            EmployeeWage empWage = new EmployeeWage();
+            empWage.CalEmployee();
 
             //EmpSwitchCase empSwitchCase = new EmpSwitchCase();
             //empSwitchCase.CalEmployeeSwitch();
