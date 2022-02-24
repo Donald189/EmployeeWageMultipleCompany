@@ -11,11 +11,11 @@ namespace EmployeeWage
             //EmployeeAttendance empAttendance = new EmployeeAttendance();
             //empAttendance.PresentorAbsent();
 
-            EmployeeWage empWage = new EmployeeWage();
-            empWage.CalEmployee();
+            //EmployeeWage empWage = new EmployeeWage();
+            //empWage.CalEmployee();
 
-            //EmpSwitchCase empSwitchCase = new EmpSwitchCase();
-            //empSwitchCase.CalEmployeeSwitch();
+            EmpSwitchCase empSwitchCase = new EmpSwitchCase();
+            empSwitchCase.CalEmployeeSwitch();
 
             //EmpWagePerMonth empWagePerMonth = new EmpWagePerMonth();
             //empWagePerMonth.CalEmployeeWagePerMonth();
